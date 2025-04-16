@@ -1,10 +1,12 @@
 [
-    {
-        "name": "Annual Function 2024",
-        "folderId":"1"
-    },
-    {
-        "name": "Annual Function 2023",
-        "folderId":"2"
-    }
+  {
+    "name": "Annual Function 2024",
+    "folderId": "1",
+    "photosCount": "10"
+  },
+  {
+    "name": "Annual Function 2023",
+    "folderId": "2",
+    "photosCount": "10"
+  }
 ]
